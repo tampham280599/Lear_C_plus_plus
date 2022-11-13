@@ -1,0 +1,6 @@
+https://viblo.asia/p/tim-hieu-smartpointer-trong-c-phan-1-4dbZND8Q5YM 
+https://viblo.asia/p/su-khac-nhau-giua-bo-nho-heap-va-bo-nho-stack-trong-lap-trinh-E375zQb1lGW
+- Tham chiếu và tham trị trong C++ 
+kênh c++ hay: https://khaind.github.io/
+
+truyền tham chiếu và tham trị: https://codelearn.io/sharing/tham-chieu-va-tham-tri-trong-cpp

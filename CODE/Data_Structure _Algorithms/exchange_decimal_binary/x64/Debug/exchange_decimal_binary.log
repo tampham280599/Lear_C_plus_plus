@@ -1,0 +1,4 @@
+﻿  doi_he.cpp
+D:\LAP TRINH\C++\CODE\Data_Structure _Algorithms\exchange_decimal_binary\doi_he.cpp(12,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\LAP TRINH\C++\CODE\Data_Structure _Algorithms\exchange_decimal_binary\doi_he.cpp(15,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  exchange_decimal_binary.vcxproj -> D:\LAP TRINH\C++\CODE\Data_Structure _Algorithms\x64\Debug\exchange_decimal_binary.exe

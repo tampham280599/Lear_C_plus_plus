@@ -1,0 +1,3 @@
+﻿  strlen_of_string.cpp
+D:\LAP TRINH\C++\CODE\Learn_basic\strlen_of_string\strlen_of_string.cpp(12,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  strlen_of_string.vcxproj -> D:\LAP TRINH\C++\CODE\Learn_basic\x64\Debug\strlen_of_string.exe
